@@ -59,20 +59,18 @@
 ## **Integrantes :**
 <table>
   <tr>
-    <td><img src=https://img.shields.io/badge/Angelica%20-%20Romero%20-%20violet?cacheSeconds=3200" alt="Texto alternativo 1"></td>
-    <td><img src="https://img.shields.io/badge/Bastian%20-%20Mariangel%20-%20red?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+    <td><img src=https://img.shields.io/badge/Angelica%20-%20Romero%20-%20violet?cacheSeconds=3200"></td>
+    <td><img src="https://img.shields.io/badge/Bastian%20-%20Mariangel%20-%20red?cacheSeconds=3200"></td>
     <td><img src="https://img.shields.io/badge/Ivan%20-%20Mieres%20-%20green?cacheSeconds=3200
-" alt="Texto alternativo 2"></td>
+"></td>
     <td><img src="https://img.shields.io/badge/Patricio%20-%20Bonnin%20-%20brown?cacheSeconds=3200
-" alt="Texto alternativo 2"></td>
+"></td>
     <td><img src="https://img.shields.io/badge/Roberto%20-%20Rivas%20-%20blue?cacheSeconds=3200
-" alt="Texto alternativo 2"></td>
+"</td>
 
   </tr>
 </table>
 
-![Menu Inicio](image.png)
-
-![Ingreso Capacitacion](image-1.png)
-
-![Alt Formulario de Contacto](image-2.png)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_1_Modulo_5/assets/131497718/f2e3ccf5-ed7e-402c-9d2d-9bb247b0cc34)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_1_Modulo_5/assets/131497718/863694f5-40ec-408b-b68b-5c3f14a579ab)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_1_Modulo_5/assets/131497718/9f570e72-d6ce-49fa-a9a3-1347a84af0d1)
