@@ -71,6 +71,8 @@
 ![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_1_Modulo_5/assets/131497718/f2e3ccf5-ed7e-402c-9d2d-9bb247b0cc34)
 ![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_1_Modulo_5/assets/131497718/863694f5-40ec-408b-b68b-5c3f14a579ab)
 ![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_1_Modulo_5/assets/131497718/9f570e72-d6ce-49fa-a9a3-1347a84af0d1)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_1_Modulo_5/assets/131497718/e66849ea-ac46-43ac-ad08-30959f615190)
+
 
 Este código se refiere a una aplicación web desarrollada en Java utilizando el framework Jakarta Servlets. Esta aplicación consta de tres servlets y tres clases de modelos que se utilizan para gestionar diferentes aspectos de la aplicación web.
 
