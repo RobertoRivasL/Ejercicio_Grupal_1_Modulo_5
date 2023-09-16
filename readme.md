@@ -71,3 +71,23 @@
 ![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_1_Modulo_5/assets/131497718/f2e3ccf5-ed7e-402c-9d2d-9bb247b0cc34)
 ![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_1_Modulo_5/assets/131497718/863694f5-40ec-408b-b68b-5c3f14a579ab)
 ![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_1_Modulo_5/assets/131497718/9f570e72-d6ce-49fa-a9a3-1347a84af0d1)
+
+Este código se refiere a una aplicación web desarrollada en Java utilizando el framework Jakarta Servlets. Esta aplicación consta de tres servlets y tres clases de modelos que se utilizan para gestionar diferentes aspectos de la aplicación web.
+
+**Servlets:**
+
+1. **Inicio.java:** Este servlet maneja las solicitudes GET y POST relacionadas con la página de inicio de la aplicación. En la solicitud GET, simplemente responde con un mensaje que indica que la página se sirve en la ruta actual. En la solicitud POST, no hace nada especial y simplemente llama al método `doGet()`.
+
+2. **Contacto.java:** Este servlet maneja las solicitudes GET y POST relacionadas con la página de contacto de la aplicación. En la solicitud GET, responde de manera similar a "Inicio.java". En la solicitud POST, recopila información del formulario (nombre, correo y mensaje) a través de los parámetros de solicitud, la almacena en atributos de solicitud y luego redirige la solicitud a "/contacto.jsp".
+
+3. **Capacitacion.java:** Este servlet maneja las solicitudes GET y POST relacionadas con la capacitación en la aplicación. En la solicitud GET, responde de manera similar a los otros servlets. En la solicitud POST, recopila información del formulario (rutCliente, día, hora, lugar, duración y cantidadAsistentes), la almacena en atributos de solicitud y luego redirige la solicitud a "/capacitacion.jsp".
+
+**Models:**
+
+1. **Inicio.java (en el paquete "models"):** Esta clase es una clase vacía.
+
+2. **Contacto.java (en el paquete "models"):** Esta clase de modelo representa un formulario de contacto y contiene atributos para el nombre, el correo y el mensaje. Tiene métodos getter y setter para acceder y modificar estos atributos.
+
+3. **Capacitacion.java (en el paquete "models"):** Esta clase de modelo representa la información de una capacitación y contiene atributos como identificador, rut del cliente, día, hora, lugar, duración y cantidad de asistentes. Al igual que la clase de contacto, tiene métodos getter y setter para estos atributos.
+
+En resumen, este código se utiliza para crear una aplicación web básica que maneja solicitudes GET y POST para las páginas de inicio, contacto y capacitación. Los datos del formulario se recopilan y se pasan a las páginas JSP correspondientes para su visualización o procesamiento adicional. Las clases de modelo se utilizan para representar la información de contacto y capacitación.
